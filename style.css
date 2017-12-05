@@ -1,6 +1,6 @@
 .content {
   text-align: center;
-  vertical-align: center;
+  margin: auto;
   font-size: 60pt;
   font-family: sans-serif;
 }
