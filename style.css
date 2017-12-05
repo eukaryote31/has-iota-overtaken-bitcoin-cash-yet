@@ -1,4 +1,5 @@
 .content {
   text-align: center;
-  text-size: 32pt
+  font-size: 32pt;
+  font-family: sans-serif;
 }
