@@ -4,5 +4,8 @@
   margin: auto;
   font-size: 60pt;
   font-family: sans-serif;
-  height: 98%;
+}
+
+.subheader {
+  font-size: 18pt;
 }
