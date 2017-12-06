@@ -17,6 +17,8 @@ function update() {
         $(".content").append("<img src='./iotamoon.png'>")
       }
 
+      $(".content").append("<div class='small'>Donations: FL9LKLBPYVKQ9QZBSGENTIDVMOZMFXREVUNWOY9NB9GMFQWKLPDWCJSRUKYCSQVQMNGAQGDKXQ9VAMSNABFUYUOVAD</div>")
+
     })
   })
 }
